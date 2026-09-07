@@ -1,0 +1,14 @@
+=== LOGIN SUCCESS: 2026-05-28 16:32:02 (GMT+4) ===
+Server Time:  2026-05-28 08:32:02
+Username:     admin
+Message:      User ID: 1
+IP Address:   212.58.121.213
+Remote Port:  43594
+Request:      POST /login.php HTTP/1.1
+URL Data:     None
+Form Fields:  username, password
+Referer:      https://logos-football-match.rf.gd/login.php
+User Agent:   Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+Language:     en-US,en;q=0.9
+===========================================
+

@@ -1,0 +1,36 @@
+{
+  "home": [
+    { "name": "Alex Goalkeeper", "number": 1 },
+    { "name": "Marcus Davidson", "number": 2 },
+    { "name": "Chris Thompson", "number": 3 },
+    { "name": "David Morris", "number": 4 },
+    { "name": "Jason Roberts", "number": 5 },
+    { "name": "Kevin Anderson", "number": 6 },
+    { "name": "Lucas Silva", "number": 7 },
+    { "name": "Miguel Santos", "number": 8 },
+    { "name": "João Oliveira", "number": 9 },
+    { "name": "Rafael Ferreira", "number": 10 },
+    { "name": "Carlos Mendez", "number": 11 },
+    { "name": "Bruno Costa", "number": 12 },
+    { "name": "Diego Lopez", "number": 13 },
+    { "name": "Fernando García", "number": 14 },
+    { "name": "Gustavo Rojas", "number": 15 }
+  ],
+  "away": [
+    { "name": "Tom Goalkeeper", "number": 1 },
+    { "name": "William Fletcher", "number": 2 },
+    { "name": "Edward Wilson", "number": 3 },
+    { "name": "George Bennett", "number": 4 },
+    { "name": "Harry Chapman", "number": 5 },
+    { "name": "Ian Mackay", "number": 6 },
+    { "name": "Jack Sterling", "number": 7 },
+    { "name": "Keith Lambert", "number": 8 },
+    { "name": "Liam Morrison", "number": 9 },
+    { "name": "Michael Newton", "number": 10 },
+    { "name": "Nicholas Powell", "number": 11 },
+    { "name": "Oscar Quinn", "number": 12 },
+    { "name": "Peter Richardson", "number": 13 },
+    { "name": "Quinton Stone", "number": 14 },
+    { "name": "Robert Taylor", "number": 15 }
+  ]
+}

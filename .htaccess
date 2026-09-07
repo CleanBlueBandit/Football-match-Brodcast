@@ -1,0 +1,13 @@
+<Files "visitor_logs.txt">
+    Require all denied
+</Files>
+<Files "register.php">
+    Require all denied
+</Files>
+<Files "login.log">
+    Require all denied
+</Files>
+
+ErrorDocument 403 /403.html
+ErrorDocument 404 /404.html
+ErrorDocument 500 /500.html
